@@ -7,3 +7,7 @@ Let’s take a random use case in which we are going to perform below-mentioned 
 1. Search Google for a user given input, up to first 10 pages, and scrape all the URL titles, URLs and Descriptions and store it as a CSV/JSON in your local system.
 2. Crawl through all the pages of the extracted URLs and extract contact details(phone numbers and Email address).
 3. Store the extracted contact information in your local system.
+
+For more information you can read this article.
+
+https://medium.com/dataseries/scrap-multiple-websites-and-extract-contact-information-from-each-of-them-using-python-267346bd367
